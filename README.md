@@ -1,3 +1,7 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -77,7 +81,6 @@
           <div class="Gallery"> Gallery </div>
           <div class="QA"> Q&A </div>
         </div>
-        
     </main>
 <footer>
     <p>Dry Oar &copy; 20XX - Your First and Last Name Here</p>
